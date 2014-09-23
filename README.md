@@ -3,10 +3,12 @@ ssha
 
 ssh alias management script
 
-Simple script to add ssh aliases. Updates ~/.ssh/config. 
+simple script to add ssh aliases. Updates ~/.ssh/config. 
 
 **TODO:**
 
-* Remove option
+* remove option
 
-* Edit option
+* edit option
+
+* protection/control for PubkeyAuthentication

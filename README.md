@@ -5,7 +5,7 @@ ssh alias management script
 
 Simple script to add ssh aliases. Updates ~/.ssh/config. 
 
-**TODO: **
+**TODO:**
 
 * Remove option
 
